@@ -21,7 +21,7 @@ Just as AWS allows developers to deploy code in the cloud without needing to cre
 st.header('Methodology')
 st.write('Here we are to have a look at the NEAR network and sometimes we will go deeper into it. First, we check the Overall Activity to have an overview of the network. The number of users and their activities, the amount of fees and gas are examined in this section.')
 st.write('Then the swaps are analyzed in terms of number, volume and user. Also, the minting and sale of NFTs have been investigated. The last part deals with Stake review.')
-st.write('The [Flipside Crypto](https://flipsidecrypto.xyz/) dataset was used for this analysis, and the queries were written on this website with the SQL Server. This app is made with Python Streamlit framework, which is suitable for data and machine learning related work.The code is placed on GitHub and the link is below.')
+st.write('[Flipside Crypto](https://flipsidecrypto.xyz/) dataset was used for this analysis, and the queries were written on this website with the SQL Server. This app is made with Python Streamlit framework, which is suitable for data and machine learning related work.The codes are on GitHub and the link is below.')
 st.write('Code Source: (https://github.com/AlirezaSamari/NEAR_Megadashboard_MetricsDAO)')
 st.write('Twitter: (https://twitter.com/Elprognerd)')
 st.write('Discord Username: Elprognerd#8324')
